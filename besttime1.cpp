@@ -21,6 +21,7 @@ LOGIC (VERY SIMPLE)
 3. Store maximum profit
 */
 
+
 int maxProfit(vector<int>& prices) {
     int minPrice = prices[0];   // best day to buy
     int maxProfit = 0;
